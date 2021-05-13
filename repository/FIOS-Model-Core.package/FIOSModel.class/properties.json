@@ -1,0 +1,14 @@
+{
+	"category" : "FIOS-Model-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 05/13/2021 14:40",
+	"instvars" : [
+		 ],
+	"name" : "FIOSModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

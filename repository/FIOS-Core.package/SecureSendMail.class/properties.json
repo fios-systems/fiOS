@@ -1,0 +1,31 @@
+{
+	"category" : "FIOS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Preference" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"socket",
+		"mailhostName",
+		"smtpPort",
+		"ownDomainName",
+		"from",
+		"to",
+		"cc",
+		"subject",
+		"headers",
+		"text",
+		"contentType",
+		"plainMessage",
+		"rcptTo",
+		"user",
+		"password" ],
+	"name" : "SecureSendMail",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : [
+		"normal",
+		[
+			"disallowGciStore" ] ] }

@@ -1,0 +1,14 @@
+{
+	"category" : "FIOS-UI-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FIOSRoot",
+	"pools" : [
+		 ],
+	"super" : "SARootComponent",
+	"type" : "normal" }

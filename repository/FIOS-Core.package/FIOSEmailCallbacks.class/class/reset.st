@@ -1,0 +1,3 @@
+utility
+reset
+  instance := nil

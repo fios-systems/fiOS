@@ -1,0 +1,14 @@
+{
+	"category" : "FIOS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"instance" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"callbacks" ],
+	"name" : "FIOSEmailCallbacks",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

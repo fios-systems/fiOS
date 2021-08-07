@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"bpmApplication" : "jupiter 06/02/2021 08:40",
+		"bpmApplicationLoginEnabledRole" : "jupiter 06/02/2021 09:07",
+		"bpmEnvironment" : "jupiter 06/02/2021 08:09",
+		"fiosApplicationName" : "jupiter 06/02/2021 08:10",
+		"newUser:password:" : "jupiter 06/02/2021 08:22",
+		"seasideDeliverEmailMessage:" : "jupiter 05/19/2021 11:05",
+		"seasideHandlerPreferenceAt:ifAbsent:" : "jupiter 05/13/2021 17:29",
+		"seasideIsIpAddress:" : "jupiter 05/13/2021 17:30",
+		"seasideSmtpPassword" : "jupiter 05/13/2021 17:30",
+		"seasideSmtpPort" : "jupiter 05/13/2021 17:31",
+		"seasideSmtpServer" : "jupiter 05/14/2021 11:22",
+		"seasideSmtpUsername" : "jupiter 05/13/2021 17:32",
+		"testMail" : "jupiter 05/14/2021 13:00" },
+	"instance" : {
+		 } }

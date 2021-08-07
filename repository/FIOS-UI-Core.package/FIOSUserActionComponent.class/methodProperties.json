@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"emailTemplateBasePath" : "jupiter 06/01/2021 12:23",
+		"forgotPasswordAction" : "jupiter 06/04/2021 07:28",
+		"registerAction" : "jupiter 06/09/2021 07:58",
+		"renderInvalidCallbackOn:" : "jupiter 06/01/2021 13:53",
+		"renderLogoOn:" : "jupiter 06/01/2021 12:23",
+		"resetPasswordAction" : "jupiter 06/01/2021 16:23" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "FIOS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FIOSResetPasswordCallback",
+	"pools" : [
+		 ],
+	"super" : "FIOSEmailCallback",
+	"type" : "normal" }

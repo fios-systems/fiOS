@@ -1,0 +1,14 @@
+{
+	"category" : "FIOS-UI-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FIOSHtmlEmailBody",
+	"pools" : [
+		 ],
+	"super" : "WAHtmlEmailBody",
+	"type" : "normal" }

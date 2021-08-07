@@ -1,0 +1,3 @@
+components
+loginComponentClass
+  ^ FIOSUserActionComponent

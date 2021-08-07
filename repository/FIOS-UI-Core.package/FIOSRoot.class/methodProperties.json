@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"configureApplication:" : "jupiter 05/25/2021 17:27",
+		"register" : "jupiter 06/01/2021 12:34",
+		"reinstall" : "jupiter 05/25/2021 08:18",
+		"unregister" : "jupiter 05/25/2021 08:17" },
+	"instance" : {
+		"initialRequest:" : "jupiter 06/01/2021 12:55",
+		"initialize" : "jupiter 05/13/2021 15:30",
+		"loginComponentClass" : "jupiter 06/01/2021 12:23",
+		"userWithName:password:" : "jupiter 06/02/2021 09:45" } }

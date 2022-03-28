@@ -51,14 +51,12 @@ baselineProjects: spec
           with: [ 
               spec
                 loads: #('default');
-                repository:
-                    'filetree:///opt/git/JupiterSmalltalk/SuperAdmin/repository' ];
+                repository: 'github://JupiterSmalltalk/SuperAdmin/repository' ];
         baseline: 'BpmFlowUI'
           with: [ 
               spec
                 loads: #('default');
-                repository:
-                    'filetree:///opt/git/JupiterSmalltalk/BpmFlowUI/repository' ];
+                repository: 'github://JupiterSmalltalk/BpmFlowUI/repository' ];
         baseline: 'Cryptography'
           with: [ 
               spec

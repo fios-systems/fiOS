@@ -1,6 +1,7 @@
 baseline
 baseline: spec
   <baseline>
+  self baselineProjects: spec.
   spec
     for: #'common'
     do: [ 
@@ -13,5 +14,9 @@ baseline: spec
       spec
         group: 'default' with: #('development');
         group: 'development' with: #('production' 'tests');
-        group: 'production' with: #('FIOS-UI-Core');
-        group: 'tests' with: #('FIOS-Tests-Model-Core') ]
+        group: 'production' with: #('dependencies' 'FIOS-UI-Core');
+        group: 'tests' with: #('FIOS-Tests-Model-Core');
+        group: 'dependencies'
+          with:
+            #('PharoCompatibility' 'ZincHTTPComponents' 'Seaside3' 'Magritte3' 'RenoirSt' 'Parasol' 'Cryptography' 'Bootstrap5' 'BootstrapMagritte' 'FontAwesomePro' 'SuperAdmin' 'BpmFlowUI' 'Mustache')
+         ]

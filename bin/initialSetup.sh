@@ -68,11 +68,9 @@ cat - > ~/.bash_profile << EOF
 export GS_HOME=/opt/GsDevKit_home
 PATH=\$GS_HOME/bin:\$PATH
 export BPM_HOME=/opt/git/JupiterSmalltalk/BpmBlow
-PATH=\$BPM_HOME/bin
+PATH=\$BPM_HOME/bin:\$PATH
 
 EOF
-
-source ~/.bash_profile
 
 echo '[Info] Patch .profile to source .bash_profile (create if necessary)'
 touch ~/.profile
